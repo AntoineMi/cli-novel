@@ -3,5 +3,5 @@ project(cli_novel)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES src/main.cpp src/Graph.cpp src/headers/Graph.h src/Game.cpp src/headers/Game.h)
+set(SOURCE_FILES src/main.cpp src/Graph.cpp src/headers/Graph.h src/Game.cpp src/headers/Game.h src/Level.cpp src/headers/Level.h)
 add_executable(cli_novel ${SOURCE_FILES})

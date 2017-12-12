@@ -1,0 +1,3 @@
+/home/antoine/cpp/cli-novel/cli-novel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/antoine/cpp/cli-novel/cli-novel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/antoine/cpp/cli-novel/cli-novel/cmake-build-debug/CMakeFiles/cli_novel.dir

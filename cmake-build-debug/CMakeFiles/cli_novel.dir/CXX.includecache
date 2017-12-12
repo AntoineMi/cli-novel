@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/antoine/cpp/cli-novel/cli-novel/src/Game.cpp
+headers/Game.h
+/home/antoine/cpp/cli-novel/cli-novel/src/headers/Game.h
+
+/home/antoine/cpp/cli-novel/cli-novel/src/Graph.cpp
+headers/Graph.h
+/home/antoine/cpp/cli-novel/cli-novel/src/headers/Graph.h
+
+/home/antoine/cpp/cli-novel/cli-novel/src/Level.cpp
+headers/Level.h
+/home/antoine/cpp/cli-novel/cli-novel/src/headers/Level.h
+
+/home/antoine/cpp/cli-novel/cli-novel/src/headers/Game.h
+Level.h
+/home/antoine/cpp/cli-novel/cli-novel/src/headers/Level.h
+
+/home/antoine/cpp/cli-novel/cli-novel/src/headers/Graph.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+
+/home/antoine/cpp/cli-novel/cli-novel/src/headers/Level.h
+Graph.h
+/home/antoine/cpp/cli-novel/cli-novel/src/headers/Graph.h
+
+/home/antoine/cpp/cli-novel/cli-novel/src/main.cpp
+iostream
+-
+headers/Graph.h
+/home/antoine/cpp/cli-novel/cli-novel/src/headers/Graph.h
+headers/Game.h
+/home/antoine/cpp/cli-novel/cli-novel/src/headers/Game.h
+
