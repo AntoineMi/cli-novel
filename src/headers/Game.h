@@ -10,8 +10,9 @@ private:
 public:
     // METHODS
     Game();
+    void over() const;
 
-    void startLevel(int id = 1);
+    void startLevel(unsigned int id = 1);
 
     // GETTERS
     Level getCurrentLevel() const;

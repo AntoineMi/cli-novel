@@ -4,9 +4,15 @@
 
 int main() {
 
-    Game g;
-    g.startLevel();
+    try {
+        Game g;
+        g.startLevel();
 
 
-    return 0;
+        return 0;
+    }
+    catch (std::runtime_error const &e) {
+        std::cerr << "Error! " << e.what() << std::endl;
+    }
+
 }

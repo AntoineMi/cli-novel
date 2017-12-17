@@ -7,13 +7,15 @@ void Graph::load(int level) {
 
     // Load level (or game over)
     std::ifstream file("../data/" + s_level);
-    if(!file.is_open())
-        std::cout << "Congrats! You beat the game!" << std::endl;
+    if(!file.is_open()) {
+        throw std::runtime_error("Level " + s_level + " does not exist");
+
+    }
 
     // Read the first line to define matrix size
     std::string line;
     std::getline(file, line);
-    int size = 0;
+    unsigned int size = 0;
     for (int i = 0; line[i]; i++)
         if (line[i] != ' ') size++;
 
@@ -29,10 +31,43 @@ void Graph::load(int level) {
     // Fill Graph matrix
     for (int i = 0; i < size; ++i) {
         for (int j = 0; j < size; ++j) {
-            file >> this->m_matrix[i][j];
+            file >> m_matrix[i][j];
         }
     }
 
+    // Save matrix size
+    m_size = size;
+
+    // Close file
+    file.close();
+}
+
+void Graph::read(unsigned int level, unsigned int node) {
+
+    // Convert ints to strings
+    std::string s_level = std::to_string(level);
+    std::string s_node = std::to_string(node);
+
+    // Load level data
+    std::ifstream file("../data/" + s_level + "_txt");
+
+    std::string line;
+    bool metNode = false;
+    while (std::getline(file, line)) {
+        // Go to current node (line)
+        if (line.find(";" + s_node, 0) != std::string::npos) {
+            metNode = true;
+            continue;
+        }
+        // Exit if ending character is met
+        if ((metNode) && (line.find('*', 0) != std::string::npos))
+            break;
+        else if(metNode)
+            std::cout << line << std::endl;
+    }
+
+    // Close file
+    file.close();
 }
 
 // SETTERS & GETTERS
@@ -41,3 +76,10 @@ const std::vector<std::vector<int> > &Graph::getMatrix() const {
     return m_matrix;
 }
 
+unsigned int Graph::getSize() const {
+    return m_size;
+}
+
+Graph::Graph() {
+    m_size = 0;
+}
