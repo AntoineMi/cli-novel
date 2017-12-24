@@ -6,20 +6,16 @@ Game::Game() {
 }
 
 void Game::startLevel(unsigned int id) {
-    std::string s_id = std::to_string(id);
-    std::ifstream file("../data/" + s_id);
+    Level m_currentLevel(id);
+    Graph &g = m_currentLevel.getGraph();
+    g.load(id);
+    m_currentLevel.playNode();
 
-    // If the player reached a "game over" or if they completed the final level, the game ends.
-    if(!file.is_open() || m_currentLevel.isGameOver()) {
+    // If the player reached "game over"
+    if(m_currentLevel.isGameOver())
         over();
-    }
-    else {
-        Level m_currentLevel(id);
-        Graph &g = m_currentLevel.getGraph();
-        g.load(id);
-        m_currentLevel.playNode();
-        startLevel(id + 1);
-    }
+
+    else startLevel(id + 1);
 }
 
 void Game::over() const {

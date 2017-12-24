@@ -7,8 +7,6 @@ int main() {
     try {
         Game g;
         g.startLevel();
-
-
         return 0;
     }
     catch (std::runtime_error const &e) {

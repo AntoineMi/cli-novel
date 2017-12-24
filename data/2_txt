@@ -1,33 +1,304 @@
-;0
-HOWDY THIS IS LEVEL 2
+&0
+Is anyone here?
+Is that thing working?
+Please tell me you're not just a packet.
+Hello?
 
-1> Left
-2> Right
-
-*
-;1
-You went left. Actually it didn't matter since right takes to the same place.
-
-1> Continue
+1> exit
+2> help
+3> printf "hello world\n"
 
 *
-;2
-You went right. Actually it didn't matter since left takes to the same place.
+&1
+Please no! Stay here!
+Do you know how to use my program? Are you a robot?
+No wait. Sorry. I don't mean to be rude.
+Can you see what I'm saying? Just type a message.
 
-1> Continue
-
-*
-;3
-So both ways led here... Now you only have one choice.
-
-1> Go straight ahead
+1> Hello?
+2> Yes I can see it
 
 *
-;4
-Oh look, another door. What kind of story games only proposes one choice?
+&2
+Yes! Help! I need help!
+Did you just type that? I can't believe it actually works.
+Please, will you help me? Can you type a reply?
 
-1> Enter the door
+1> Am I talking to a person?
+2> What do you need?
 
 *
-;5
-Ah, this is the end.
+&3
+Wait. What is this? I'm sorry I'm really not in the mood for jokes right now.
+Whoever you are: you are my only hope.
+Are you there?
+
+1> Yes, I think?
+2> What do you need?
+
+*
+&4
+Yes! Hello! I am so happy we can communicate!
+Please, can you help me?
+
+1> Who are you?
+2> What's happening?
+
+*
+&5
+This is a miracle!
+Ok, there are so many things I want to ask. But the most important is: can you help me?
+
+1> I have questions too
+2> I guess? What do you need?
+
+*
+&6
+Yes! You are!
+If my program works correctly, you should see a transcription of my voice. And I can see what you're writing.
+
+1> Who am I talking to?
+2> So what's wrong?
+
+*
+&7
+You definitely are!
+I mean, despite the mind-boggling distance between us, I'm really happy we can talk. Can you help me?
+
+1> Sure
+2> Did you track my location?
+
+*
+&8
+Actually I'm not really sure.
+I went over the panic stage and at this point I'm confident I have very little chances of surviving, but since you're here maybe we can work together!
+Please?
+
+1> I want to help you, what's going on?
+2> You just sound fishy to me
+3> I'm sorry I don't think I can be of any help
+
+*
+&9
+I'm Ashley.
+That's right, I said it. Listen, I just want to know if you will help me. Please.
+
+1> Sure
+2> I don't know you
+3> I don't think I can
+
+*
+&10
+Ok ok ok please forgive me.
+I'm not thinking clear here.
+Go ahead, ask me what you want.
+
+1> Who are you?
+2> What is this program?
+
+*
+&11
+It's me. It's Ashley.
+Yeah, I'm still here. Probably not for long.
+Unless you agree to help me!
+
+1> I can help you
+2> I'm sorry but I don't know you
+
+*
+&12
+Thank you. Really.
+I'm in deep stress right now so pardon me if I sound a bit harsh.
+Voice transcription isn't the best at forwarding emotion.
+
+1> So what do you need?
+2> What's wrong?
+
+*
+&13
+Thank you so much.
+I felt really alone for the last couple days.
+I don't know who you are but please know that anything you do can help me.
+
+1> No problem, tell me what you need
+2> What's going on?
+
+*
+&14
+I'm Ashley. Grand.
+Yeah, you found me. I won't try to hide.
+So now that you know that, will you help me?
+
+1> I've never heard of you
+2> Why would you hide?
+
+*
+&15
+It's... a side project.
+Listen, do I know you at the agency? I really need to trust you.
+I know I'm in trouble for a lot of things, including my program here, but without it I might as well be dead.
+
+1> What are you talking about?
+2> Are you trying to track me?
+
+*
+&16
+Oh. So you're... an outsider?
+How did you... No wait, I don't want to know.
+Actually, I'm glad I'm speaking with a third-party here.
+Hell, maybe you're one of my superiors and you're trying to manipulate me, but who cares, it's not like I can ask for someone else's help.
+
+1> I want to help you
+2> What are you in trouble for?
+
+*
+&17
+It's me, Ashley.
+You know what happened, right?
+
+1> No, I just happened to be on the network
+2> Oh yeah, the famous Ashley Grand
+
+*
+&18
+Right now I'm not sure.
+I'm alone at base A and I wasn't able to communicate with anyone.
+
+1> Hum... I don't understand
+2> What's base A?
+
+*
+&19
+I've messed with the wrong people.
+And yet I went on that mission. What a fool I am...
+
+1> Are you ok?
+2> You don't sound very smart indeed
+
+*
+&20
+No! Don't be afraid.
+I'm the one in trouble here.
+I don't know who you are, I mean no harm, I just want to know if you can help me.
+
+1> What are you in trouble for?
+2> I'm not supposed to be in the network
+
+*
+&21
+Pardon me but...
+have you been working on project [transcription error]
+
+1> You're just messing with me
+2> What? I don't really work here
+
+*
+&22
+Hey, I don't really care what you think of me or what I've done.
+I'm just stuck on this rock and I'm going to die.
+Plain and simple.
+So if this was part of the plan, you didn't have to come to laugh at me.
+However if you don't hate me, I'd appreciate a little help.
+
+1> Are you alright?
+2> I will help you
+
+*
+&23
+You mean, in general, or right now?
+Because right now might be the important part here.
+
+1> Right now. Are you ok?
+2> In general
+
+*
+&24
+Okay, I get that it's kind of hard to understand, especially if you've never heard of the project.
+But I do need help, and you're the only one here.
+Could you just play along?
+
+1> Alright, tell me what I can do
+2> Is this a game?
+
+*
+&25
+To be honest, I might be at the worst moment of my life. But that's positive, right? It means it can only get better. And it starts with you!
+
+1> Let me help you
+
+*
+&26
+To be honest, I might be at the worst moment of my life. But that's positive, right? It means it can only get better. And it starts with you!
+
+1> Let me help you
+
+*
+&27
+You know how is it.
+I'm chilling 380 000 kilometers away and my oxygen supply won't last forever.
+Let alone water and food.
+
+1> WHAT
+2> Wait, you're in space?
+
+*
+&28
+Hold on. Don't worry.
+I don't want to know how you got here.
+On the contrary, I'm grateful someone was able to find my program and run it.
+That's why I made it.
+
+1> Did "something go wrong"?
+2> So how can I help?
+
+*
+&29
+All that matters is that you found my program and that we can communicate. So are you willing to help me? I really need you.
+
+1> Ok, tell me what happened
+2> I don't think I can
+
+*
+&30
+Oh well, so many things went wrong.
+From my opinion about the mission's objective to how comms magically don't work anymore.
+
+1> How can I help?
+2> I still don't understand
+
+*
+&31
+Hey, of course you can.
+Simply being able to talk to someone actually helps.
+I might need more than that, but will you stay with me?
+
+1> Okay
+2> What is going on?
+
+*
+&32
+Thank you so much.
+Now, let me sum up the situation a bit.
+
+1> ...
+
+*
+&33
+As I suspected, the mission is a failure and I'm alone at base A.
+But icing on the cake: no one tried to contact me and I can't even emit a distress signal to the others or to Eart.
+Thank you so much for coming.
+
+1> What mission?
+2> Wait, you're not on Earth?
+
+*
+&34
+Ha ha! So you really aren't from the agency.
+You know what? It's actually the best help I could get.
+They got me into this mess, and I'm pretty sure they weren't going to hep me out of it.
+
+1> What's the current situation?
+
+*
+&35
+I'M STUCK MDR

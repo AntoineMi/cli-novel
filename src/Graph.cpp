@@ -1,5 +1,8 @@
 #include "headers/Graph.h"
 
+Graph::Graph() {
+    m_size = 0;
+}
 
 void Graph::load(int level) {
     // Convert int to string
@@ -51,11 +54,13 @@ void Graph::read(unsigned int level, unsigned int node) {
     // Load level data
     std::ifstream file("../data/" + s_level + "_txt");
 
+    std::cout << std::endl << std::endl << "__________________________________________" << std::endl << std::endl;
+
     std::string line;
     bool metNode = false;
     while (std::getline(file, line)) {
         // Go to current node (line)
-        if (line.find(";" + s_node, 0) != std::string::npos) {
+        if (line.find("&" + s_node, 0) != std::string::npos) {
             metNode = true;
             continue;
         }
@@ -78,8 +83,4 @@ const std::vector<std::vector<int> > &Graph::getMatrix() const {
 
 unsigned int Graph::getSize() const {
     return m_size;
-}
-
-Graph::Graph() {
-    m_size = 0;
 }

@@ -26,15 +26,20 @@ int Level::playNode(unsigned int id) {
         }
     }
 
-    // prompt
     promptChoices();
 }
 
 void Level::promptChoices() {
     unsigned int input = 0;
+    bool again = false;
     while (input < 1 || input > m_choices.size()) {
+        if (again)
+            std::cout << "// \"" << input << "\" is not a valid choice //" << std::endl;
         std::cout << ">";
         std::cin >> input;
+        if (!input)
+            exit(1);
+        again = true;
     }
 
     if (getGraph().getMatrix()[m_line][m_choices[input - 1]] == 2)

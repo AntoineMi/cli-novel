@@ -1,33 +1,164 @@
-;0
-Hello friend, welcome to level 1 ! Here you'll have to make your first decision. Tough choice...
+&0
+-| FANCY TITLE |-
+Welcome to GAME, a thrilling space rescue right in your terminal. It is a game of choices that might bring you to dilemmas and question your own ethics, so be warned!
 
-1> Left
-2> Right
+For the best experience, is it recommended that you increase the height of your terminal to at least 500px (about half of a full HD screen).
 
-*
-;1
-You went left. Actually it didn't matter since right takes to the same place.
+If this is your first run, please enter "1". I will present you the story and gameplay in an introductory level.
+You will be guided, but once you reach the actual game, you will be on your own. Good luck!
 
-1> Continue
-
-*
-;2
-You went right. Actually it didn't matter since left takes to the same place.
-
-1> Continue
+1> Start
+2> Skip introduction
 
 *
-;3
-So both ways led here... Now you only have one choice.
+&1
+ACCESS GRANTED
 
-1> Go straight ahead
+[The small characters were shining out of your computer screen. Finally, after weeks of research, you managed to break into the network of the country's space agency. Sure, it might not be the biggest agency in the world, but you didn't come for power or harming purposes.
+No, you are not a malicious hacker, just a space enthusiast, looking out of sheer curiosity.
+
+This is your terminal. From here you can send commands and wander around the network.
+The choice is yours. Why don't you try something right now? Input the number of the command you want to run.]
+
+1> ping 8.8.8.8
+2> printf "hello world\n"
 
 *
-;4
-Oh look, another door. What kind of story games only proposes one choice?
+&2
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=57 time=11.9 ms
 
-1> Enter the door
+[Well, it worked. This is how you make choices! It doesn't really matter now, but think carefully before making a choice during the game.
+
+Now, let's go back to space exploration... or hard drive exploration for now.]
+
+1> ls
 
 *
-;5
-Ah, this is the end.
+&3
+hello world
+
+[Well, it worked. This is how you make choices! Sometimes, the choice can be hard to make, and you might regret it during the story. Worry not! You can still play again and make different choices in the future.
+
+Now, let's go back to space exploration... or hard drive exploration for now.]
+
+1> ls
+
+*
+&4
+ashley.grand
+
+["Oh", you say to yourself. You can only reach what looks like a user folder. Somehow you were able to sneak in from the access of "Ashley Grand".
+Never heard of her, but if she's working at the agency, she must have some interesting documents.]
+
+1> cd ashley.grand/ ; ls
+
+*
+&5
+user
+work
+
+1> ls user/
+2> ls work/
+
+*
+&6
+Desktop
+Documents
+Downloads
+Music
+Pictures
+Videos
+Trash
+
+[Mmmh, just your typical default folders. Probably not interesting for now.]
+
+1> ls work/
+
+*
+&7
+
+[Nothing here?...]
+
+1> ls user/
+2> ls work/ -a
+
+*
+&8
+.                                         .if_anything_goes_wrong
+..                                        .local
+.bash_history                             .profile
+.bash_logout                              .ssh
+.bashrc                                   .sudo_as_admin_successful
+.config                                   .temp
+
+[HA! Piece of cake.
+You skim through the folder. Not very promising. You didn't exactly expect anything else than boring configuration of log files.
+
+But then, you eye catches a folder and your heart misses a beat.
+".if_anything_goes_wrong"
+
+This is definitely not a default folder of the operating system. Did Ashley Grand create it?
+Also, why was it hidden and yet so easily accessible? Was it left for someone to find?
+"If anything goes wrong"
+What could go wrong?
+The current folder is quite empty for a "work" directory.
+...Did something go wrong?
+
+Questions are racing inside your mind, and you can't help but feel uncomfortable.
+Maybe you should stop here. You haven't done anything too noticeable, or seen sensitive data.
+
+But then again, you are here out of curiosity. No harm intended, right?
+With such a name, the folder is practically screaming at you to open it.]
+
+1> exit
+2> cd .if_anything_goes_wrong/ ; ls -a
+
+*
+&9
+logout
+Connection closed
+
+[You stare at the terminal. Well, it was quite a ride accessing this server, but you're too afraid of what you could find.]
+
+*
+&10
+.                                         cordiglia.bin
+..                                        systemv
+.cordiglia
+
+[Maybe nothing went wrong after all. It's just a folder! Plus, you haven't found anything so far. Now isn't the time to give up.
+
+So what do we have here? A file that looks like an executable program, and two folders... Funny, you've definitely heard "cordiglia" before, but where?]
+
+1> ls -a .cordiglia
+2> ls -a systemv
+3> ./cordiglia.bin
+
+*
+&11
+ls: cannot access .cordiglia/.: Permission denied
+
+1> ls -a systemv
+2> ./cordiglia.bin
+
+*
+&12
+ls: cannot access .systemv/.: Permission denied
+
+1> ls -a .cordiglia
+2> ./cordiglia.bin
+*
+
+&13
+-Cordiglia transmitter v0.1a-
+Starting transmission server...
+[WARNING] Unknown client
+[WARNING] Whitelist is deactivated. Allowing connection
+Running!
+[INFO] No target provided. Using default
+Pinging target '782f9b10621e362d5bd0def3a279b5e0908c9ebb' over IPN...
+Got response in 5372ms
+[INFO] low-latency-mode=true
+Contacting speech recognition server...
+Connection established
