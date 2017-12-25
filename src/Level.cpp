@@ -30,6 +30,9 @@ int Level::playNode(unsigned int id) {
 }
 
 void Level::promptChoices() {
+    // Load playthrough
+    std::ofstream playthrough("../user/lastPlaythrough.txt", std::ios::out | std::ios::app);
+
     unsigned int input = 0;
     bool again = false;
     while (input < 1 || input > m_choices.size()) {
@@ -45,6 +48,7 @@ void Level::promptChoices() {
     if (getGraph().getMatrix()[m_line][m_choices[input - 1]] == 2)
         m_gameOver = true;
 
+    playthrough << "> " << input << " <" << std::endl << std::endl;
     playNode(m_choices[input - 1]);
 }
 

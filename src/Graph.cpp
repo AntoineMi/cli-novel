@@ -53,6 +53,8 @@ void Graph::read(unsigned int level, unsigned int node) {
 
     // Load level data
     std::ifstream file("../data/" + s_level + "_txt");
+    // Load playthrough
+    std::ofstream playthrough("../user/lastPlaythrough.txt", std::ios::out | std::ios::app);
 
     std::cout << std::endl << std::endl << "__________________________________________" << std::endl << std::endl;
 
@@ -67,8 +69,10 @@ void Graph::read(unsigned int level, unsigned int node) {
         // Exit if ending character is met
         if ((metNode) && (line.find('*', 0) != std::string::npos))
             break;
-        else if(metNode)
+        else if(metNode) {
             std::cout << line << std::endl;
+            playthrough << line << std::endl;
+        }
     }
 
     // Close file

@@ -5,6 +5,14 @@ Game::Game() {
     m_currentLevel = l;
 }
 
+void Game::newGame() {
+    // Clear last playthrough
+    std::ofstream playthrough("../user/lastPlaythrough.txt", std::ofstream::out | std::ofstream::trunc);
+    playthrough.close();
+
+    startLevel();
+}
+
 void Game::startLevel(unsigned int id) {
     Level m_currentLevel(id);
     Graph &g = m_currentLevel.getGraph();

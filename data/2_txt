@@ -25,7 +25,7 @@ Did you just type that? I can't believe it actually works.
 Please, will you help me? Can you type a reply?
 
 1> Am I talking to a person?
-2> What do you need?
+2> What is this?
 
 *
 &3
@@ -74,8 +74,8 @@ Actually I'm not really sure.
 I went over the panic stage and at this point I'm confident I have very little chances of surviving, but since you're here maybe we can work together!
 Please?
 
-1> I want to help you, what's going on?
-2> You just sound fishy to me
+1> You just sound fishy to me
+2> I want to help you, what's going on?
 3> I'm sorry I don't think I can be of any help
 
 *
@@ -148,16 +148,16 @@ How did you... No wait, I don't want to know.
 Actually, I'm glad I'm speaking with a third-party here.
 Hell, maybe you're one of my superiors and you're trying to manipulate me, but who cares, it's not like I can ask for someone else's help.
 
-1> I want to help you
-2> What are you in trouble for?
+1> What are you in trouble for?
+2> I want to help you
 
 *
 &17
 It's me, Ashley.
 You know what happened, right?
 
-1> No, I just happened to be on the network
-2> Oh yeah, the famous Ashley Grand
+1> Oh yeah, the famous Ashley Grand
+2> No, I just happened to be on the network
 
 *
 &18
@@ -172,8 +172,8 @@ I'm alone at base A and I wasn't able to communicate with anyone.
 I've messed with the wrong people.
 And yet I went on that mission. What a fool I am...
 
-1> Are you ok?
-2> You don't sound very smart indeed
+1> You don't sound very smart indeed
+2> Are you ok?
 
 *
 &20
@@ -228,9 +228,11 @@ To be honest, I might be at the worst moment of my life. But that's positive, ri
 
 *
 &26
-To be honest, I might be at the worst moment of my life. But that's positive, right? It means it can only get better. And it starts with you!
+You don't?
+Sorry, I didn't want to brag. It's just that with everything that's going on, my name is on everyone's lips.
 
-1> Let me help you
+1> I can help you
+2> I don't have anything to do with this
 
 *
 &27
@@ -285,11 +287,10 @@ Now, let me sum up the situation a bit.
 *
 &33
 As I suspected, the mission is a failure and I'm alone at base A.
-But icing on the cake: no one tried to contact me and I can't even emit a distress signal to the others or to Eart.
+But icing on the cake: no one tried to contact me and I can't even emit a distress signal to the others or to Earth.
 Thank you so much for coming.
 
-1> What mission?
-2> Wait, you're not on Earth?
+1> A mission? Base A? Earth?
 
 *
 &34
@@ -301,4 +302,8 @@ They got me into this mess, and I'm pretty sure they weren't going to hep me out
 
 *
 &35
-I'M STUCK MDR
+So the rest of the crew left two days ago and went to base B.
+It's a simple trip but I have no idea whether they made it or not.
+You see, the comms devices cannot receive or emit signals, and I haven't been able to fix them, so that means no contact with anyone.
+But for some reason, my program here is able to connect and transmit my voice to the transcription server, and your commands to my PDA.
+I've been sitting here wondering what to do, and I think I've been panicking too much to make good decisions.

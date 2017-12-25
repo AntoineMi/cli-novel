@@ -11,7 +11,7 @@ public:
     // METHODS
     Game();
     void over() const;
-
+    void newGame();
     void startLevel(unsigned int id = 1);
 
     // GETTERS
