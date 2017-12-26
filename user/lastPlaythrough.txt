@@ -39,3 +39,236 @@ Can you see what I'm saying? Just type a message.
 1> Hello?
 2> Yes I can see it
 
+> 1 <
+
+Yes! Hello! I am so happy we can communicate!
+Please, can you help me?
+
+1> Who are you?
+2> What's happening?
+
+> 1 <
+
+I'm Ashley.
+That's right, I said it. Listen, I just want to know if you will help me. Please.
+
+1> Sure
+2> I don't know you
+3> I don't think I can
+
+> 1 <
+
+Thank you so much.
+I felt really alone for the last couple days.
+I don't know who you are but please know that anything you do can help me.
+
+1> No problem, tell me what you need
+2> What's going on?
+
+> 1 <
+
+Right now I'm not sure.
+I'm alone at base A and I wasn't able to communicate with anyone.
+
+1> Hum... I don't understand
+2> What's base A?
+
+> 1 <
+
+Pardon me but...
+have you been working on project [transcription error]
+
+1> You're just messing with me
+2> What? I don't really work here
+
+> 1 <
+
+Okay, I get that it's kind of hard to understand, especially if you've never heard of the project.
+But I do need help, and you're the only one here.
+Could you just play along?
+
+1> Alright, tell me what I can do
+2> Is this a game?
+
+> 1 <
+
+Thank you so much.
+Now, let me sum up the situation a bit.
+
+1> ...
+
+> 1 <
+
+So the rest of the crew left two days ago and went to base B.
+It's a simple trip but I have no idea whether they made it or not.
+You see, the comms devices cannot receive or emit signals, and I haven't been able to fix them, so that means no contact with anyone.
+But for some reason, my program here is able to connect and transmit my voice to the transcription server, and your commands to my PDA.
+I've been sitting here wondering what to do, and I think I've been panicking too much to make good decisions.
+Here's what I've been struggling with.
+I could try to fix the comms device but I'm afraid to touch something more important.
+Or, I could also join the others at base B, but they took the rover and there's only a small emergency vehicle left.
+I don't know if it can make it this far.
+
+1> Don't do anything
+2> Let's repair comms
+3> Head to base B
+
+> 3 <
+
+Yes, let's do this.
+If they won't come at me, I'll come at them!
+I just hope the vehicle battery will be enough.
+Ha ha.
+Ok, I'll put on my suit, talk to you soon.
+
+1> Ok
+
+> 1 <
+
+All set!
+Ah, this thing is unwieldy. But necessary.
+Ok, I have enough oxygen for a round trip with the rover, which is about twice as fast as the emergency vehicle.
+It should be just enough.
+I'm going through the airlock.
+The noise might [transcription error]
+
+1> Everything alright?
+
+> 1 <
+
+Yes! I'm out.
+I'm slowly hopping to the vehicle.
+Oh, I almost thought that I had forgotten the keys. Good thing there are no keys on that thing.
+Ok, let's see... The battery is 90% full. Oh and before you ask, it's not rechargeable.
+I really hope it will be enough.
+
+1> Good luck!
+2> You'll be fine
+
+> 1 <
+
+I'm more in need of a miracle than luck, but thanks!
+So, there are antennas along the way, but we might lose connection at some points.
+Off I go!
+
+1> Have a safe ride
+
+> 1 <
+
+The road is craggy but usually there isn't too much traffic.
+Ha ha.
+
+1> ...
+
+> 1 <
+
+[INFO] Connection lost
+
+1> ...
+
+> 1 <
+
+Connection established
+
+1> Still fine?
+
+> 1 <
+
+Yup, all good
+[INFO] Connection lost
+
+1> ...
+
+> 1 <
+
+
+
+1> ...
+
+> 1 <
+
+Connection established
+
+1> Hello again
+
+> 1 <
+
+This is bad.
+This is really bad.
+I wasn't paying attention to the battery. There are 40% left.
+I might be just halfway to base B, maybe more, but maybe less. I'm not sure.
+If I go back now, I might be able to regain base A.
+But it's my last chance to reach base B.
+What should I do?
+
+1> Go back to base A
+2> Continue towards base B
+
+> 2 <
+
+Right.
+I can't give up now.
+Besides, there's nothing for me at base A.
+Let's carry on.
+[INFO] Connection lost
+
+1> ...
+
+> 1 <
+
+
+
+1> ...
+
+> 1 <
+
+
+
+1> ...
+
+> 1 <
+
+Connection established
+
+1> Is base B in sight?
+
+> 1 <
+
+Yes... but it's a bit blurry...
+
+1> What?
+
+> 1 <
+
+I left the... vehicle... it was close but the battery died.
+I... been walking... some time...
+
+1> Hang on! You'll make it!
+
+> 1 <
+
+I see... I see base B... the rover...
+
+1> You're nearly there!
+
+> 1 <
+
+[transcription error] was nice... talking to [transcription error]
+
+1> Hello?
+
+> 1 <
+
+
+
+1> ...
+
+> 1 <
+
+
+
+1> ...
+
+> 1 <
+
+

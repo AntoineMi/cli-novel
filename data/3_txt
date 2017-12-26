@@ -1,0 +1,794 @@
+&0
+Here's what I've been struggling with.
+I could try to fix the comms device but I'm afraid to touch something more important.
+Or, I could also join the others at base B, but they took the rover and there's only a small emergency vehicle left.
+I don't know if it can make it this far.
+
+1> Don't do anything
+2> Let's repair comms
+3> Head to base B
+
+*
+&1
+Eh, it sounded like the smart choice two days ago.
+But now I'm really starting to feel like I need to move on.
+
+1> You're right, let's fix comms
+2> No trust me, it's the best thing to do
+3> Yes, go to base B
+
+*
+&2
+Ok! That souds good. I'm safe here. As long as I don't break anything.
+So I've already taken a look and I found the switch cabinet linked to the transmitters.
+The thing is, everything looks fine: LEDs are green, cables are plugged, even the digital display says OK!
+I can't diagnose the problem here.
+
+1> Hit it hard
+2> Find the main switch, turn it off and back on
+3> Look somewhere else
+
+*
+&3
+That's... old school.
+But then again, devices are aren't the most recent.
+Take that!
+KBJHSD[transcription error]
+
+1> What happened?
+
+*
+&4
+Nothing.
+Oh yeah, the transcription shouldn't process sounds that aren't voices, but if it's too loud it can lose it sometimes.
+Anyway, nothing has changed and comms are still down.
+
+1> Hit it harder
+2> Find the main switch, turn it off and back on
+3> Look somewhere else
+
+*
+&5
+I'm not sure this is the right way to go but I'm going to trust you.
+Here it comes!
+PPKSF[transcription error]
+
+1> So?
+
+*
+&6
+Same result.
+I think I should try something else.
+
+1> SMASH THAT THING like your life depends on it
+2> Find the main switch, turn it off and back on
+3> Look somewhere else
+
+*
+&7
+I hope you're telling me that because you know it can fix it.
+Not because you're laughing at the idea of me alone in the base and banging my arm against the wall.
+Ok, that does sound funny.
+Whatever.
+YAAAA[transcription error]BGBGKJSHHGD[transcription error]
+
+1> ...
+
+*
+&8
+Yeah, maybe... If this alone fixes it, please don't mock me.
+It's not my fault if their comms are as stable as a Windows environment.
+Let's see
+[INFO] Connection lost
+
+1> ...
+
+*
+&9
+Connection established
+
+1> Hello?
+
+*
+&10
+It's still the same.
+However, the door of another cabinet on the side just fell on me.
+If it wasn't for lunar gravity, that door would have hurt.
+But guess what, I have good news: there's an extra battery for the emergency vehicle in there.
+With that, I'm pretty confident I can make it to base B.
+
+1> Let's do that, then!
+2> You don't have to thank me
+
+*
+&11
+GOD you scared me!
+I'm glad I set my program to automatically reconnect.
+
+1> So is it working?
+
+*
+&12
+Yes!
+Finally, I'm feeling enthusiastic, and a bit less terrified about this situation.
+Thank you!
+I'm going to hop into my suit.
+This will take a while.
+
+1> Alright
+
+*
+&13
+Ha ha, you know, I really appreciate what you're doing for me.
+I'm happy I can trust you.
+Now, if you'll excuse me, I have to wear my suit if I want to survive outside.
+
+1> Okay
+
+*
+&14
+Nope.
+I wasn't sure we'd get disconnected.
+I mean, we're able to communicate and yet the base cannot detect or emit a signal.
+It's as if we were bypassing some sort of barrier.
+What is wrong here? 
+
+1> Look somewhere else
+2> Screw comms, go to base B
+
+*
+&15
+Ready to go!
+Ah, those suits aren't the most comfortable but I like that they keep me alive.
+So! Oxygen, check. Extra battery, check.
+I'm going through the airlock!
+[transcription error]
+
+1> All good?
+
+*
+&16
+I'm out!
+I'm making my way to the vehicle...
+Well well well, the battery has 90% left.
+Maybe the other one won't be needed but at least I know I'm safe.
+Let's go!
+
+1> Drive safe!
+
+*
+&17
+Right, if it ain't broke, don't fix it.
+So, there's the control desk from which I tried to emit signals.
+And there's also another cabinet with a bright DANGER sign on it.
+
+1> Go to the control desk
+2> Go to the cabinet
+
+*
+&18
+You're making me do things I wouldn't do on my own.
+Maybe that will save me.
+Maybe not. We'll see.
+So, what do we have here?
+Wires, screw terminals... One of the screws looks different though, it looks like it was added after the others.
+
+1> What's special about it?
+2> Remove it
+
+*
+&19
+It's fine.
+Though having a traffic accident would be a nice thing: It would mean I'm not alone here...
+Speaking of alone, the connection might drop at times.
+The antennas on the way are pretty far apart.
+
+1> Ok
+
+*
+&20
+I can't really do that.
+I need to cut the wires.
+And also, I probably need electrical protection gloves.
+You don't mess with electricity.
+
+1> Find something to protect you and cut them
+2> Don't touch anything, just look
+3> There's no need and no time for protection, cut them
+
+*
+&21
+What a beautiful road. Kind of jagged but
+[INFO] Connection lost
+
+1> ...
+
+*
+&22
+Alright you seem confident about this.
+Wait a minute, I'll see if I can get my hands on some gloves.
+Or rather, in some gloves. Ha.
+
+1> ...
+
+*
+&23
+Let's see... it looks more new.
+And it's the only one that connects black and orange wires.
+There are many different color combinations but black-orange only appears once.
+
+1> Go to the control desk
+2> Go to base B
+
+*
+&24
+I'm not sure that's the brightest idea. But as I said, I'm screwed.
+So I'm going to trust you there.
+I REALLY hope you know what you're talking about.
+Let me grab a knife... and KJJ[transcription error]
+
+1> Everything alright?
+
+*
+&25
+
+
+1> ...
+
+*
+&26
+I've tried pretty much everything, from the computer or directly with the emitter-receiver.
+
+1> Check the computer again
+2> Check the emitter-receiver again
+
+*
+&27
+I found a pair!
+Now, time to cut this off.
+And... done.
+Now... wait, what is that noise?
+
+1> What noise?
+2> Don't worry, check if comms are working 
+
+*
+&28
+Connection established
+
+1> How is it going?
+
+*
+&29
+Ok, give me a minute... Yeah, nothing new.
+It's a pretty basic system, you can't do much besides opening communications and taking notes.
+
+1> Are there some notes?
+2> Just go to base B
+
+*
+&30
+I'm familiar with that big box, we use it all the time.
+And nothing looks wrong about it.
+Let me unplug and replug everything again...
+
+1> So how is it going?
+
+*
+&31
+It's some kind of... whistle... As if...
+
+1> As if?
+
+*
+&32
+Right. I'll get to the control desk... I just need...
+
+1> Yes?
+
+*
+&33
+Everything fine.
+I still have a long way
+[INFO] Connection lost
+
+1> ...
+
+*
+&34
+I've checked already.
+Some guy was complaining the emergency vehicle couldn't reach base B with its small battery, which is why I'm afraid to go.
+And someone else added: "One battery is just enough, quit whining".
+Sometimes I wonder how we made it to space with such a team.
+
+1> You probably should stay here
+2> I think you should try base B
+
+*
+&35
+Technically, perfectly fine.
+But in practice I still can't EMIT or RECEIVE, which kinda defeats the purpose of this EMITTER-RECEIVER, am I right?
+This is making me crazy.
+
+1> You need some rest
+2> I'd give up on comms and go to base B
+
+*
+&36
+As if air... was being... sucked off... the room...
+
+1> Are you ok?
+
+*
+&37
+I... my head is... heavy...
+
+1> What's going on?
+
+*
+&38
+
+
+1> ...
+
+*
+&39
+Alright, alright.
+I probably can't make rational choices here.
+You must be the voice of reason.
+I'll just wait and... wait.
+
+1> Good, you're safe here
+
+*
+&40
+The... [transcription error]
+
+1> Hey?
+
+*
+&41
+[transcription error] tired... [transcription error] breathe...
+
+1> Hello?
+
+*
+&42
+
+
+1> ...
+
+*
+&43
+Well, I should have enough oxygen and food for... another week.
+Many things can happen over the course of seven days.
+
+1> It's enough time for me to call for help
+2> Let's chat and pass the time
+
+*
+&44
+
+
+1> ...
+
+*
+&45
+Connection established
+
+1> Hello again
+
+*
+&46
+
+
+1> ...
+
+*
+&47
+No, don't do that.
+Everybody knows I'm here.
+If they're planning to rescue me, they will.
+And if they don't... you're the only rescue I could get.
+
+1> Why wouldn't they rescue you?
+
+*
+&48
+Great idea!
+So, is there something you'd like to talk about?
+
+1> Tell me about this program
+2> Tell me about what "went wrong"
+
+*
+&49
+Hi there.
+I think I'm close now.
+Oh, and I switched batteries!
+You really saved me there.
+I'll pretend the discovery of this extra battery was carefully planned, and not a random
+[INFO] Connection lost
+
+1> ...
+
+*
+&50
+
+*
+&51
+It's a small tool I wrote as an auxiliary means of communication.
+Basically, it captures the data from my microphone and transcripts it to text.
+On your end, you type something and it shows up on my PDA here.
+I kind of violated the agency policy because it goes through an unmonitored protocol, but at least it works.
+
+1> Tell me about what "went wrong"
+
+
+*
+&52
+
+
+1> ...
+
+*
+&53
+We have a lot of disagreements about our purpose here.
+I've joined the agency in order to act for science and the greater good.
+And yet they only want to serve their personal interests.
+I almost threw my hand in the face of Clarence.
+
+1> What's the mission?
+2> Clarence sounds like a cunt
+
+*
+&54
+We're collecting data on the lunar surface to build a solar farm.
+The bases and laboratories here need more power, but they want to sell the energy for private corporations to settle on the planet.
+
+1> What? Space business?
+
+*
+&55
+Oh yeah, he is.
+But he's also my superior, and I bet he has something to do with my extended holidays here.
+
+1> Waiting for help isn't the best idea then
+2> You should stay here, it's safer
+
+*
+&56
+Yeah. That's the future.
+You might not have heard about it but it's definitely coming soon.
+Thanks to greedy and corrupt men like my superiors.
+The more I think about it, the clearer it seems that they were trying to get rid of me.
+
+1> Waiting for help isn't the best idea then
+2> You should stay here, it's safer
+
+*
+&57
+You're right.
+Even if I could send a distress signal, I doubt they'd raise a finger to help me.
+So what's left?
+
+1> Base B!
+
+*
+&58
+Right... damn. I'm really stuck here.
+And I'm exhausted.
+I've been running around for too long, so sitting here and talking made me realize I should settle and relax.
+
+1> Good idea
+
+*
+&59
+I might doze off a little... stay connected, I'll reach you again soon.
+
+1> Ok!
+
+*
+&60
+Yes, let's do this.
+If they won't come at me, I'll come at them!
+I just hope the vehicle battery will be enough.
+Ha ha.
+Ok, I'll put on my suit, talk to you soon.
+
+1> Ok
+
+*
+&61
+All set!
+Ah, this thing is unwieldy. But necessary.
+Ok, I have enough oxygen for a round trip with the rover, which is about twice as fast as the emergency vehicle.
+It should be just enough.
+I'm going through the airlock.
+The noise might [transcription error]
+
+1> Everything alright?
+
+*
+&62
+
+
+1> ...
+
+*
+&63
+Yes! I'm out.
+I'm slowly hopping to the vehicle.
+Oh, I almost thought that I had forgotten the keys. Good thing there are no keys on that thing.
+Ok, let's see... The battery is 90% full. Oh and before you ask, it's not rechargeable.
+I really hope it will be enough.
+
+1> Good luck!
+2> You'll be fine
+
+*
+&64
+
+
+1> ...
+
+*
+&65
+I'm more in need of a miracle than luck, but thanks!
+So, there are antennas along the way, but we might lose connection at some points.
+Off I go!
+
+1> Have a safe ride
+
+*
+&66
+Thank you again for accompanying me through this.
+Base B, I'm on my way!
+Oh, we might lose connection on the road sometimes.
+The antennas don't have a very good range.
+
+1> Have a safe ride
+
+*
+&67
+Why am I feeling more tired than... before?
+How long... as it been?
+
+1> A bit more than an hour
+
+*
+&68
+The road is craggy but usually there isn't too much traffic.
+Ha ha.
+
+1> ...
+
+*
+&69
+It's the... breathing... why...
+
+1> Are you ok?
+
+*
+&70
+[INFO] Connection lost
+
+1> ...
+
+*
+&71
+Don't understand... [transcription error] oxygen is...
+
+1> Hello?
+
+*
+&72
+Connection established
+
+1> Still fine?
+
+*
+&73
+
+
+1> Hey?
+
+*
+&74
+Yup, all good
+[INFO] Connection lost
+
+1> ...
+
+*
+&75
+
+
+1> ...
+
+*
+&76
+
+
+1> ...
+
+*
+&77
+
+*
+
+*
+&78
+Connection established
+
+1> Hello again
+
+*
+&79
+This is bad.
+This is really bad.
+I wasn't paying attention to the battery. There are 40% left.
+I might be just halfway to base B, maybe more, but maybe less. I'm not sure.
+If I go back now, I might be able to regain base A.
+But it's my last chance to reach base B.
+What should I do?
+
+1> Go back to base A
+2> Continue towards base B
+
+*
+&80
+Ok. Gah, I'm so mad I wasted all this time and battery.
+But it's better than not reaching base B and having to walk.
+I wouldn't have enough oxygen.
+Here goes the u-turn... and now I'm back on my tracks.
+[INFO] Connection lost
+
+1> ...
+
+*
+&81
+Right.
+I can't give up now.
+Besides, there's nothing for me at base A.
+Let's carry on.
+[INFO] Connection lost
+
+1> ...
+
+*
+&82
+
+
+1> ...
+
+*
+&83
+
+
+1> ...
+
+*
+&84
+Connection established
+
+1> Hey
+
+*
+&85
+
+
+1> ...
+
+*
+&86
+Is everything good?
+
+1> Hey
+
+*
+&87
+Connection established
+
+1> Is base B in sight?
+
+*
+&88
+I broke down. No more battery... I'm walking.
+I still can't see base A.
+I don't think I'll have enough oxygen.
+
+1> You're going to make it!
+
+*
+&89
+Yes... but it's a bit blurry...
+
+1> What?
+
+*
+&90
+Really? I... Ok.
+I'll keep walking.
+Keep walking
+[INFO] Connection lost
+
+1> ...
+
+*
+&91
+I left the... vehicle... it was close but the battery died.
+I... been walking... some time...
+
+1> Hang on! You'll make it!
+
+*
+&92
+
+
+1> ...
+
+*
+&93
+I see... I see base B... the rover...
+
+1> You're nearly there!
+
+*
+&94
+Connection established
+
+1> Are you ok!?
+
+*
+&95
+[transcription error] was nice... talking to [transcription error]
+
+1> Hello?
+
+*
+&96
+Base A... on the horizon [transcription error]
+I want to breathe...
+
+1> Keep going!
+
+*
+&97
+Ah... I... it's over [transcription error]
+I...
+
+1> Everything will be fine
+2> I'm so sorry
+
+*
+&98
+[transcription error] your... fault...
+
+1> ...
+
+*
+&99
+[transcription error] not mad... at you...
+[transcription error] Thank [transcription error]
+
+1> ...
+
+*
+&100
+
+
+1> ...
+
+*
+&101
+
+
+1> ...
+
+*
+&102
+
+*
+&103
+Connection established

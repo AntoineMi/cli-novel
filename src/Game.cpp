@@ -36,9 +36,8 @@ void Game::over() const {
     std::cout << "   #    #     # #          #       #    ## #     #" << std::endl;
     std::cout << "   #    #     # #######    ####### #     # ######" << std::endl << std::endl;
 
-    std::cout << "Thank you for playing! I hope you enjoyed the story and had a pleasing game experience." << std::endl;
     std::cout << "Don't hesitate to play again, take different steps and make different choices based on your previous"
-            " run. Maybe you'll find another ending... :)" << std::endl;
+            " run. Maybe you'll find another ending..." << std::endl;
 }
 
 // GETTERS
