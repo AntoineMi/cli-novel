@@ -113,56 +113,123 @@ I don't know if it can make it this far.
 2> Let's repair comms
 3> Head to base B
 
-> 3 <
+> 2 <
 
-Yes, let's do this.
-If they won't come at me, I'll come at them!
-I just hope the vehicle battery will be enough.
-Ha ha.
-Ok, I'll put on my suit, talk to you soon.
+Ok! That souds good. I'm safe here. As long as I don't break anything.
+So I've already taken a look and I found the switch cabinet linked to the transmitters.
+The thing is, everything looks fine: LEDs are green, cables are plugged, even the digital display says OK!
+I can't diagnose the problem here.
 
-1> Ok
-
-> 1 <
-
-All set!
-Ah, this thing is unwieldy. But necessary.
-Ok, I have enough oxygen for a round trip with the rover, which is about twice as fast as the emergency vehicle.
-It should be just enough.
-I'm going through the airlock.
-The noise might [transcription error]
-
-1> Everything alright?
+1> Hit it hard
+2> Find the main switch, turn it off and back on
+3> Look somewhere else
 
 > 1 <
 
-Yes! I'm out.
-I'm slowly hopping to the vehicle.
-Oh, I almost thought that I had forgotten the keys. Good thing there are no keys on that thing.
-Ok, let's see... The battery is 90% full. Oh and before you ask, it's not rechargeable.
-I really hope it will be enough.
+That's... old school.
+But then again, devices are aren't the most recent.
+Take that!
+KBJHSD[transcription error]
 
-1> Good luck!
-2> You'll be fine
+1> What happened?
 
 > 1 <
 
-I'm more in need of a miracle than luck, but thanks!
-So, there are antennas along the way, but we might lose connection at some points.
-Off I go!
+Nothing.
+Oh yeah, the transcription shouldn't process sounds that aren't voices, but if it's too loud it can lose it sometimes.
+Anyway, nothing has changed and comms are still down.
 
-1> Have a safe ride
+1> Hit it harder
+2> Find the main switch, turn it off and back on
+3> Look somewhere else
 
 > 1 <
 
-The road is craggy but usually there isn't too much traffic.
-Ha ha.
+I'm not sure this is the right way to go but I'm going to trust you.
+Here it comes!
+PPKSF[transcription error]
+
+1> So?
+
+> 1 <
+
+Same result.
+I think I should try something else.
+
+1> SMASH THAT THING like your life depends on it
+2> Find the main switch, turn it off and back on
+3> Look somewhere else
+
+> 1 <
+
+I hope you're telling me that because you know it can fix it.
+Not because you're laughing at the idea of me alone in the base and banging my arm against the wall.
+Ok, that does sound funny.
+Whatever.
+YAAAA[transcription error]BGBGKJSHHGD[transcription error]
 
 1> ...
 
 > 1 <
 
+It's still the same.
+However, the door of another cabinet on the side just fell on me.
+If it wasn't for lunar gravity, that door would have hurt.
+But guess what, I have good news: there's an extra battery for the emergency vehicle in there.
+With that, I'm pretty confident I can make it to base B.
+
+1> Let's do that, then!
+2> You don't have to thank me
+
+> 1 <
+
+Yes!
+Finally, I'm feeling enthusiastic, and a bit less terrified about this situation.
+Thank you!
+I'm going to hop into my suit.
+This will take a while.
+
+1> Alright
+
+> 1 <
+
+Ready to go!
+Ah, those suits aren't the most comfortable but I like that they keep me alive.
+So! Oxygen, check. Extra battery, check.
+I'm going through the airlock!
+[transcription error]
+
+1> All good?
+
+> 1 <
+
+I'm out!
+I'm making my way to the vehicle...
+Well well well, the battery has 90% left.
+Maybe the other one won't be needed but at least I know I'm safe.
+Let's go!
+
+1> Drive safe!
+
+> 1 <
+
+It's fine.
+Though having a traffic accident would be a nice thing: It would mean I'm not alone here...
+Speaking of alone, the connection might drop at times.
+The antennas on the way are pretty far apart.
+
+1> Ok
+
+> 1 <
+
+What a beautiful road. Kind of jagged but
 [INFO] Connection lost
+
+1> ...
+
+> 1 <
+
+
 
 1> ...
 
@@ -170,12 +237,19 @@ Ha ha.
 
 Connection established
 
-1> Still fine?
+1> How is it going?
 
 > 1 <
 
-Yup, all good
+Everything fine.
+I still have a long way
 [INFO] Connection lost
+
+1> ...
+
+> 1 <
+
+
 
 1> ...
 
@@ -193,23 +267,11 @@ Connection established
 
 > 1 <
 
-This is bad.
-This is really bad.
-I wasn't paying attention to the battery. There are 40% left.
-I might be just halfway to base B, maybe more, but maybe less. I'm not sure.
-If I go back now, I might be able to regain base A.
-But it's my last chance to reach base B.
-What should I do?
-
-1> Go back to base A
-2> Continue towards base B
-
-> 2 <
-
-Right.
-I can't give up now.
-Besides, there's nothing for me at base A.
-Let's carry on.
+Hi there.
+I think I'm close now.
+Oh, and I switched batteries!
+You really saved me there.
+I'll pretend the discovery of this extra battery was carefully planned, and not a random
 [INFO] Connection lost
 
 1> ...
@@ -222,44 +284,98 @@ Let's carry on.
 
 > 1 <
 
+Connection established
+Base B in sight!
+I can see the rover.
+So the rest of the crew must still be there. Those bastards could have come to check up on me.
+I bet they're not expecting me now...
+Actually, I kind of fear what their reaction will be.
+What do you think?
+
+1> Get there and face them
+2> Be discreet and try to sneak in
+
+> 2 <
+
+That sounds smart.
+They shouldn't have seen me yet.
+I'll leave the vehicle in this crater here, and walk around in order to arrive from behind where there are no windows.
+
+1> Good plan
+
+> 1 <
+
+I'm really nervous again.
+Ok, let's walk.
+This will take a while...
+
+1> Don't get caught!
+
+> 1 <
+
+I'm being as stealthy as a leopard chasing its prey.
+Well, as much as a spacesuit can allow.
+
+1> ...
+
+> 1 <
+
 
 
 1> ...
 
 > 1 <
 
-Connection established
+Okay, I'm behind the building!
+On the left, I can reach the entrance airlock.
+On the right, there is... nothing much.
+Just a few footprints, but they might be older than the base.
 
-1> Is base B in sight?
-
-> 1 <
-
-Yes... but it's a bit blurry...
-
-1> What?
+1> Go left to the entrance
+2> Follow the footprints on the right
 
 > 1 <
 
-I left the... vehicle... it was close but the battery died.
-I... been walking... some time...
+Sure... why not.
+I mean, if someone went over there recently, there might be something interesting.
 
-1> Hang on! You'll make it!
-
-> 1 <
-
-I see... I see base B... the rover...
-
-1> You're nearly there!
+1> Yes
 
 > 1 <
 
-[transcription error] was nice... talking to [transcription error]
+Mmh. Just plain walls.
+At least there are no windows for them to see me...
+Oh?
+HOLY[transcription error]
 
-1> Hello?
+1> What's happening?
 
 > 1 <
 
+SOMEONE IS OUTSIDE!
+They've seen me! They're coming to me!
+Who is it?
+Ah, stupid vacuum, I can't just speak to them!
+What do I do?
 
+1> Freeze, no sudden movements!
+2> Have you heard of the semaphore alphabet?
+3> Run!
+
+> 2 <
+
+Ah!
+Arms to the left! H!
+Up right! E!
+How's the letter L?
+I'm panicking! What do I say?
+And what is that thing in their hanDZJZKJDZZ[transcription error]
+
+1> What's going on?
+
+> 1 <
+
+[INFO] Connection lost
 
 1> ...
 
