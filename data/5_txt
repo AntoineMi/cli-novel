@@ -1,0 +1,308 @@
+&0
+Here's the entrance.
+There's no way they won't notice me once I equalize the pressure, but at least I'll be inside.
+
+1> Let's do this
+
+*
+&1
+Outside pressure reached!
+Ok, first door, I'm in.
+Now to equalize again... [transcription error]
+
+1> Are you done?
+
+*
+&2
+I'm inside!
+And... no one's here? Despite all the noise I've been making?
+That's strange...
+I'll take my suit off and see where they are.
+
+1> Right
+
+*
+&3
+Done!
+Erm, is this a joke?
+The door to the lobby won't open?
+When did... wait.
+There's a strange noise.
+
+1> A strange noise?
+2> Try forcing the door
+
+*
+&4
+Yes, like a whistle... Hey, I think it's coming from the vents... Oh no, are they messing with... the oxygen!?
+
+1> Try forcing the door
+2> Look for the ventilation control circuit
+
+*
+&5
+Ngggggggggggh!
+It's airtight. No matter how hard I... push or pull!
+
+1> Look for the door control circuit
+2> Force harder!
+
+*
+&6
+Ok!
+There are plenty of electrical cabinets here!
+They're all.. identical...
+Except for one with a DANGER sign... and one with a SYSTEM sign
+
+1> Open a random cabinet
+2> Open the "DANGER" cabinet
+3> Open the "SYSTEM" cabinet
+
+*
+&7
+NNNNNGGGG[transcription error]
+I... it's no use, I... phew... this is tiring...
+
+1> DESTROY THE DOOR
+2> Look for the door control circuit
+
+*
+&8
+Alright then!
+This one will do!
+It's... it's hard to breathe.
+Where do I start? There are... switches everywhere...
+
+1> Turn them all on!
+2> Turn them all off!
+3> Switch things at random!
+
+*
+&9
+There are wires everywhere!
+Ah... I need some fresh air.
+Anyway.
+They're connected through screw terminals...
+Red and green... green and blue, blue and orange, orange and black... black and red...
+What do I do... here?
+
+1> Find some gloves first
+2> Remove the red-green terminal
+3> Remove the green-blue terminal
+4> Remove the blue-orange terminal
+5> Remove the orange-black terminal
+6> Remove the black-red terminal
+
+*
+&10
+TAKE THAT... STUPID... DOOR...
+I [transcription error]
+
+1> Are you ok?
+
+*
+&11
+There's a... computer inside.
+Just a second, I'm catching my breath...
+Ok! It's a terminal.
+What do I... type?
+
+1> "door open"
+2> "fix this shit"
+3> "help"
+4> "printf "hello world\n""
+
+*
+&12
+Yes the... electric...
+Ah... It really feels...
+
+1> What's going on?
+
+*
+&13
+There! There... there!
+There... ok I... it's on...
+But I still... ah...
+
+1> Try another cabinet!
+
+*
+&14
+Yes... good idea you have there...
+Ok, there are gloves inside the door...
+Oh, they're still warm.
+So... what do I do?
+
+1> Remove the red-green terminal
+2> Remove the green-blue terminal
+3> Remove the blue-orange terminal
+4> Remove the orange-black terminal
+5> Remove the black-red terminal
+
+*
+&15
+Off! Off! You too, off!
+Everyone... off...
+Ok... they're off... off...
+
+1> Try another cabinet!
+
+*
+&16
+Ok, come here you...
+SCKKCSKKJJ[transcription error]
+
+1> Everything ok?
+
+*
+&17
+Ok, come here you...
+SCKKCSKKJJ[transcription error]
+
+1> Everything ok?
+
+*
+&18
+On! Off! On... off!
+On and off, off...
+Ah... did I switch this... one... nothing is...
+
+1> Try another cabinet!
+
+*
+&19
+Unknown... command...
+I think I'm...
+
+1> Try something else!
+
+*
+&20
+Ok, come here you...
+SCKKCSKKJJ[transcription error]
+
+1> Everything ok?
+
+*
+&21
+Ok, come here you...
+SCKKCSKKJJ[transcription error]
+
+1> Everything ok?
+
+*
+&22
+Yeah... probably... wait...
+Unknown command...
+
+1> Try something else!
+
+*
+&23
+Ok, come here you...
+SCKKCSKKJJ[transcription error]
+
+1> Everything ok?
+
+*
+&24
+So there's... a list of... commands...
+I could try...
+
+1> Keep going!
+
+*
+&25
+[transcription error] oxygen... [transcription error]
+
+1> Hey!
+
+*
+&26
+Why did I... type this...
+Ha... ha...
+It says...
+Hello... world...
+
+1> Try something else!
+
+*
+&27
+And... ok.
+I cut the wires... around it...
+But i think the noise... is... still...
+
+1> Try another screw terminal!
+
+*
+&28
+And... ok.
+I cut the wires... around it...
+But i think the noise... is... still...
+
+1> Try another screw terminal!
+
+*
+&29
+And... ok.
+I cut the wires... around it...
+But i think the noise... is... still...
+
+1> Try another screw terminal!
+
+*
+&30
+Good... I... removed it.
+Wait... I think the noise is gone...
+Yes! AH!
+Let me take some deep breaths!
+
+1> Well done!
+
+*
+&31
+And... ok.
+I cut the wires... around it...
+But i think the noise... is... still...
+
+1> Try another screw terminal!
+
+*
+&32
+It must be the oxygen controller for the room...
+In theory, it can only be adjusted physically.
+But I'm sure they messed with the connector to access it remotely.
+And they did it a few minutes ago.
+That's why the gloves were still warm.
+
+1> They tried to kill you
+
+*
+&33
+Yes... yes...
+[transcription error]
+
+1> Be strong!
+
+*
+&34
+
+
+1> ...
+
+*
+&35
+
+
+1> ...
+
+*
+&36
+
+
+*
+&37
+[So you've managed to get this far! Congratulations.
+The rest of the story has yet to come.
+In the meantime, you might still gather some precious ]

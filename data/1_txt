@@ -1,6 +1,12 @@
 &0
--| FANCY TITLE |-
-Welcome to GAME, a thrilling space rescue right in your terminal. It is a game of choices where your actions can have severe consequences, so be warned!
+    _   ___ ___  __   _____  _   _   _____ _  _ ___ ___ ___ ___ 
+   /_\ | _ \ __| \ \ / / _ \| | | | |_   _| || | __| _ \ __|__ \
+  / _ \|   / _|   \ V / (_) | |_| |   | | | __ | _||   / _|  /_/
+ /_/ \_\_|_\___|   |_| \___/ \___/    |_| |_||_|___|_|_\___|(_) 
+                                                                
+
+
+Welcome to ARE YOU THERE?, a thrilling space rescue right in your terminal. It is a game of choices where your actions can have severe consequences, so be warned!
 
 If this is your first run, please enter "1". I will present you the story and gameplay in an introductory level.
 You will be guided, but once you reach the actual game, you will be on your own. Good luck!
